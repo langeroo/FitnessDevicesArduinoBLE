@@ -3,9 +3,9 @@
 #include <ArduinoBLE.h>
 
 /* Device name which can be seen in BLE scanning software. */
-#define BLE_DEVICE_NAME               "Treadmilino"
+#define BLE_DEVICE_NAME               "Treadmillino"
 /* Local name which should pop up when scanning for BLE devices. */
-#define BLE_LOCAL_NAME                "Treadmilino"
+#define BLE_LOCAL_NAME                "Treadmillino"
 
 // https://www.bluetooth.com/wp-content/uploads/Sitecore-Media-Library/Gatt/Xml/Characteristics/org.bluetooth.characteristic.rsc_measurement.xml
 BLEService RunningSpeedAndCadenceService("1814");
