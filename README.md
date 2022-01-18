@@ -10,3 +10,6 @@ The Bicyclino sketch is a modified version of the [ArduinoBLE-Cycle-Power-Servic
 # Disclaimer
 This code is provided as is with no waranty whatsoever. You use this code at your own risk. You assume all liability for using this code and/or derivative works. You are responsible for your own health and fitness; consult your doctor before using.
 Zwift is a copyright of Zwift Inc.; this code is not endorsed by Zwift Inc.
+
+# Useful Reference
+[This page](https://btprodspecificationrefs.blob.core.windows.net/assigned-values/16-bit%20UUID%20Numbers%20Document.pdf) was very useful for determining the IDs for different services and characteristics, and could come in handy if you choose to extend functionality of this package
